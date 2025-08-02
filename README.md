@@ -3,7 +3,7 @@ This is a documentation for the Grasshopper workflow, questionnaire, and HVAC se
 ## Content: 
 - **community_knowledge_collecting_questionnaire_preview.pdf**: Preview of the questionnaire used to collect community knowledge from householders. The questionnaire is built with jotform. Access to the questionnaire: https://form.jotform.com/251915919185063.
 - **pipeline.gh**: The main workflow used to process the submission of the questionnaire to inputs for UrbanOPT simulation. The workflow is built mainly with Ladybug tools, and its operation require the installations of Rhino, Ladybug plugin, Honeybee plugin, Dragonfly plugin, and UrbanOPT CLI. 
-- **HVAC.xlsx**: The library used to match the questionnaire submissions for a household's heat fuel, heating types, and cooling types to a certain HVAC system that can be recognized by Dragonfly.
+- **community_knowledge_collecting_questionnaire_submission_template.csv**: The template for questionnaire submiisions with one submission instance. The input for grasshopper workflow will be in such format. 
 
 ## How to use: 
 1. **Get system prepared**:
