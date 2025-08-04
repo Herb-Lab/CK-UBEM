@@ -1,11 +1,12 @@
-﻿Submission Date,What is your address?,How many people are living in your household? (Use a number),What is your occupation? (Describe in one word),How long is your daily commute from home to work?,Fill in the Blank,What percentage of the walls are covered by windows?,How many people living in your household are employed? (Use a number),Fill in the Blank,How many stories does your house have? (Use a number),Does your house have any attic?,What type of building do you live in?,Others,Do you rent or own your home?,How many of them are Electric Vehicles (EVs) (use a number),Where do you usually charge your EVs,Others,What type of energy sources do you pay to heat and cool your home?,What type of heating system do you use?,What type of cooling system do you use?,How many cars do your household have? (use a number),What materials are the roof of your home made of?,What materials are the inside walls of your home mostly made of?,What materials are the floor of your home mostly made of?,What materials are the outside walls of your home mostly made of?,How would you rate the overall condition of your home?,Fill in the Blank,Fill in the Blank
-"Aug 1, 2025","115 Elm street, 1R Worcester, Massachusetts, 01609",2,PhD,about 15mins,"When would you be at home during the weekdays?
+﻿Submission Date,What is your address?,Do you rent or own your home?,How many people are living in your household? (Use a number),How many people living in your household are employed? (Use a number),What is your occupation? (Describe in one word),How long is your daily commute from home to work?,Fill in the Blank,Fill in the Blank,What type of building do you live in?,Others,What percentage of the walls are covered by windows?,Fill in the Blank,How many stories does your house have? (Use a number),Does your house have any attic?,How would you rate the overall condition of your home?,What materials are the outside walls of your home mostly made of?,What materials are the roof of your home made of?,What materials are the inside walls of your home mostly made of?,What materials are the floor of your home mostly made of?,Fill in the Blank,Fill in the Blank,What type of energy sources do you pay to heat and cool your home?,What type of heating system do you use?,What type of cooling system do you use?,How many cars do your household have? (use a number),How many of them are Electric Vehicles (EVs) (use a number),Where do you usually charge your EVs,Others
+"Aug 3, 2025","100 Institute Road Worcester, MA, 01609",I'm a renter,2,2,PhD,about 15mins,"When would you be at home during the weekdays?
 
-From 18 to 9",20–30%,2,"How large is your house?
+From 9 to 17","When would you be at home during the weekends?
 
-2000 square feet OR  square meters",4,No,Apartment,,I'm a renter,0,,,Electricity,Electric baseboard heaters,Window or wall air conditioners,1,Rolled composite roofing,Drywall,Hardwood flooring,Aluminum or vinyl siding,Fair,"What temperature do you usually set for heating in winter?
+From 0 to 23",Single-family house,,20–30%,"How large is your house?
+
+2000 square feet OR  square meters",4,No,Fair,Aluminum or vinyl siding,Rolled composite roofing,Drywall,Hardwood flooring,"What temperature do you usually set for heating in winter?
 
 75 °F OR  °C","What temperature do you usually set for cooling in summer?
 
-75 °F OR  °C"
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75 °F OR  °C",Electricity,Heat pump (electricity powered air conditioner for both heating and cooling),Heat pump (electricity powered air conditioner for both heating and cooling),1,0,,
